@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.learnyeai.resource.core.course.ChapterDetails">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.learnyeai.resource.core.course.ChapterDetails</OriginalElement>
+              <nodes>
+                <node x="198.0" y="102.0">com.learnyeai.resource.core.course.ChapterDetails</node>
+                <node x="218.0" y="0.0">com.learnyeai.resource.core.course.SectionDetails</node>
+                <node x="0.0" y="204.0">com.learnyeai.resource.core.course.CourseDetails</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
+                  <point x="0.0" y="-37.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.course.ChapterDetails" target="com.learnyeai.resource.core.course.SectionDetails">
+                  <point x="-58.75" y="-26.0" />
+                  <point x="256.75" y="77.0" />
+                  <point x="266.75" y="77.0" />
+                  <point x="-48.75" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.course.SectionDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
+                  <point x="48.75" y="26.0" />
+                  <point x="364.25" y="77.0" />
+                  <point x="374.25" y="77.0" />
+                  <point x="58.75" y="-26.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="315.5" y="139.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/task/TeachingTaskDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/details/OnlineDetails.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="operable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="scene" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="taskpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559006357336" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="" />
+      <created>1558956528786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558956528786</updated>
+      <workItem from="1558956530084" duration="3288000" />
+      <workItem from="1558961429641" duration="276000" />
+      <workItem from="1558961736731" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3763000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28917608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram//Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/course;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/details;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/document/type;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/operable;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/scene;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/task;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/course;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/details;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/document/type;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/operable;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/scene;/Users/wangqi/项目/learnyeais/learnyeai-resources/learnyeai-resource-core/src/main/java/com/learnyeai/resource/core/task;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8052391659601656" x="474.0" y="298.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.task.DownloadableTaskDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.task.DownloadableTaskDetails</OriginalElement>
+          <nodes>
+            <node x="" y="">com.learnyeai.resource.core.task.ResourceableTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.PlayableTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.PreviewTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.ResourceableDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.DownloadableDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.PlayableDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.DownloadableTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.PreviewDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.InteractiveTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.860982391102873" x="530.0" y="185.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.operable.Downloadable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.operable.Downloadable</OriginalElement>
+          <nodes>
+            <node x="" y="">com.learnyeai.resource.core.operable.Preview</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Resourceable</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Studioable</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Downloadable</node>
+            <node x="" y="">com.learnyeai.resource.core.operable.Interactive</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="254.0" y="95.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/task/TeachingTaskDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/details/TaskDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/details/OnlineDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.DocumentTaskDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.DocumentTaskDetails</OriginalElement>
+          <nodes>
+            <node x="165.2549019607843" y="320.0">com.learnyeai.resource.core.task.ResourceableTaskDetails</node>
+            <node x="16.0" y="80.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="105.5539215686274" y="240.0">com.learnyeai.resource.core.task.PreviewTaskDetails</node>
+            <node x="518.5539215686274" y="240.0">com.learnyeai.resource.core.details.ResourceableDetails</node>
+            <node x="449.6299019607843" y="160.0">com.learnyeai.resource.core.details.DownloadableDetails</node>
+            <node x="711.5539215686274" y="240.0">com.learnyeai.resource.core.DocumentType</node>
+            <node x="292.5539215686274" y="240.0">com.learnyeai.resource.core.task.DownloadableTaskDetails</node>
+            <node x="267.3799019607843" y="160.0">com.learnyeai.resource.core.details.PreviewDetails</node>
+            <node x="64.25" y="160.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="387.3455882352941" y="0.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="437.0955882352941" y="80.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="0.0" y="0.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="609.8039215686274" y="320.0">com.learnyeai.resource.core.DocumentDetails</node>
+            <node x="607.3799019607843" y="400.0">com.learnyeai.resource.core.DocumentTaskDetails</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.PreviewTaskDetails">
+              <point x="-25.25" y="-15.0" />
+              <point x="241.0049019607843" y="290.0" />
+              <point x="189.0539215686274" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.task.ResourceableTaskDetails">
+              <point x="-61.0" y="-15.0" />
+              <point x="637.8799019607843" y="375.0" />
+              <point x="266.2549019607843" y="375.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="336.3799019607843" y="140.0" />
+              <point x="485.8455882352941" y="140.0" />
+              <point x="-16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.DownloadableTaskDetails">
+              <point x="25.25" y="-15.0" />
+              <point x="291.5049019607843" y="290.0" />
+              <point x="395.5539215686274" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="-57.66666666666663" y="-15.0" />
+              <point x="547.3872549019608" y="210.0" />
+              <point x="370.8799019607843" y="210.0" />
+              <point x="34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.DocumentType">
+              <point x="61.0" y="-15.0" />
+              <point x="759.8799019607843" y="375.0" />
+              <point x="818.8039215686274" y="375.0" />
+              <point x="35.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-51.5" y="-15.0" />
+              <point x="344.0539215686274" y="210.0" />
+              <point x="196.75" y="210.0" />
+              <point x="53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="605.0539215686274" y="220.0" />
+              <point x="582.3799019607843" y="220.0" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-75.75" y="-15.0" />
+              <point x="190.5049019607843" y="300.0" />
+              <point x="91.125" y="300.0" />
+              <point x="-53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="183.5" y="130.0" />
+              <point x="453.3455882352941" y="130.0" />
+              <point x="-48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentDetails" target="com.learnyeai.resource.core.DocumentType">
+              <point x="38.5" y="-15.0" />
+              <point x="725.3039215686274" y="300.0" />
+              <point x="747.3039215686274" y="300.0" />
+              <point x="-35.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.DocumentDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="698.8799019607843" y="375.0" />
+              <point x="686.8039215686274" y="375.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="57.66666666666663" y="-15.0" />
+              <point x="662.720588235294" y="220.0" />
+              <point x="651.642156862745" y="220.0" />
+              <point x="651.642156862745" y="140.0" />
+              <point x="550.845588235294" y="140.0" />
+              <point x="48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="538.1299019607843" y="140.0" />
+              <point x="518.345588235294" y="140.0" />
+              <point x="16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="51.5" y="-15.0" />
+              <point x="447.0539215686274" y="220.0" />
+              <point x="493.8799019607843" y="220.0" />
+              <point x="-44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="-38.5" y="-15.0" />
+              <point x="43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-15.0" />
+              <point x="148.0" y="55.0" />
+              <point x="425.5955882352941" y="55.0" />
+              <point x="-38.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-41.75" y="-15.0" />
+              <point x="147.3039215686274" y="220.0" />
+              <point x="143.75" y="220.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="41.75" y="-15.0" />
+              <point x="230.8039215686274" y="220.0" />
+              <point x="301.8799019607843" y="220.0" />
+              <point x="-34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="75.75" y="-15.0" />
+              <point x="342.0049019607843" y="300.0" />
+              <point x="561.8039215686274" y="300.0" />
+              <point x="-43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="203.0" y="140.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.AudioDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.AudioDetails</OriginalElement>
+          <nodes>
+            <node x="210.75" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="149.25" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="122.5" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="272.5" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="0.0" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="2.5" y="193.0">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="344.5" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="40.25" y="364.0">com.learnyeai.resource.core.AudioDetails</node>
+            <node x="212.25" y="364.0">com.learnyeai.resource.core.AudioTaskDetails</node>
+            <node x="33.25" y="284.0">com.learnyeai.resource.core.details.PlayableDetails</node>
+            <node x="169.75" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="330.0" y="259.0" />
+              <point x="360.5" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.AudioDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="250.5" y="259.0" />
+              <point x="220.0" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="35.25" y="-15.0" />
+              <point x="139.0" y="259.0" />
+              <point x="155.0" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.AudioTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="316.5" y="157.0" />
+              <point x="264.0" y="157.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Playable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.operable.Playable">
+              <point x="-35.25" y="-15.0" />
+              <point x="68.5" y="259.0" />
+              <point x="52.5" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="8.0" y="100.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.CommentDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.CommentDetails</OriginalElement>
+          <nodes>
+            <node x="233.625" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="172.12500000000003" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="145.375" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="295.375" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="84.125" y="444.0">com.learnyeai.resource.core.CommentTaskDetails</node>
+            <node x="6.5" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="0.0" y="364.0">com.learnyeai.resource.core.CommentDetails</node>
+            <node x="367.375" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="175.125" y="364.0">com.learnyeai.resource.core.task.InteractiveTaskDetails</node>
+            <node x="36.25" y="284.0">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="2.0" y="193.0">com.learnyeai.resource.core.operable.Interactive</node>
+            <node x="192.62500000000003" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="-46.0" y="-15.0" />
+              <point x="221.125" y="339.0" />
+              <point x="152.5" y="339.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="352.875" y="259.0" />
+              <point x="383.375" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="38.75" y="-15.0" />
+              <point x="152.5" y="259.0" />
+              <point x="177.875" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.CommentTaskDetails" target="com.learnyeai.resource.core.task.InteractiveTaskDetails">
+              <point x="44.75" y="-15.0" />
+              <point x="218.375" y="419.0" />
+              <point x="267.125" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Interactive" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="-38.75" y="-15.0" />
+              <point x="75.0" y="259.0" />
+              <point x="59.0" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="273.375" y="259.0" />
+              <point x="242.875" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.CommentDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="339.375" y="157.0" />
+              <point x="286.875" y="157.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="46.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.CommentTaskDetails" target="com.learnyeai.resource.core.CommentDetails">
+              <point x="-44.75" y="-15.0" />
+              <point x="128.875" y="419.0" />
+              <point x="75.0" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="20.0" y="140.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.DocumentDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.DocumentDetails</OriginalElement>
+          <nodes>
+            <node x="186.29149999999993" y="485.0">com.learnyeai.resource.core.task.ResourceableTaskDetails</node>
+            <node x="973.0635" y="485.0">com.learnyeai.resource.core.document.type.Pdf</node>
+            <node x="15.999999999999943" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="324.39699999999993" y="394.0">com.learnyeai.resource.core.task.PreviewTaskDetails</node>
+            <node x="521.8135" y="394.0">com.learnyeai.resource.core.details.ResourceableDetails</node>
+            <node x="293.7914999999999" y="294.0">com.learnyeai.resource.core.details.DownloadableDetails</node>
+            <node x="867.8" y="394.0">com.learnyeai.resource.core.DocumentType</node>
+            <node x="98.39699999999993" y="394.0">com.learnyeai.resource.core.task.DownloadableTaskDetails</node>
+            <node x="495.5414999999999" y="294.0">com.learnyeai.resource.core.details.PreviewDetails</node>
+            <node x="693.3135" y="193.0">com.learnyeai.resource.core.operable.Preview</node>
+            <node x="64.24999999999994" y="294.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="273.2914999999999" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="884.0635" y="485.0">com.learnyeai.resource.core.document.type.Xls</node>
+            <node x="323.0414999999999" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="638.3969999999999" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="0.0" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="612.0635" y="474.0">com.learnyeai.resource.core.DocumentDetails</node>
+            <node x="790.0635" y="485.0">com.learnyeai.resource.core.document.type.Doc</node>
+            <node x="674.7914999999999" y="294.0">com.learnyeai.resource.core.operable.Resourceable</node>
+            <node x="477.0414999999999" y="193.0">com.learnyeai.resource.core.operable.Downloadable</node>
+            <node x="619.1039999999999" y="576.0">com.learnyeai.resource.core.DocumentTaskDetails</node>
+            <node x="293.7914999999999" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.document.type.Xls" target="com.learnyeai.resource.core.DocumentType">
+              <point x="0.0" y="-15.0" />
+              <point x="918.5635" y="454.0" />
+              <point x="939.3" y="454.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Preview" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="741.8135" y="157.0" />
+              <point x="717.1469999999999" y="157.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.PreviewTaskDetails">
+              <point x="25.25" y="-15.0" />
+              <point x="312.5414999999999" y="444.0" />
+              <point x="407.89699999999993" y="444.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.operable.Resourceable">
+              <point x="64.875" y="-15.0" />
+              <point x="673.1885" y="374.0" />
+              <point x="740.7914999999999" y="374.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-51.50000000000006" y="-15.0" />
+              <point x="149.89699999999988" y="374.0" />
+              <point x="143.74999999999994" y="374.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.operable.Preview">
+              <point x="34.5" y="-15.0" />
+              <point x="599.0414999999999" y="274.0" />
+              <point x="717.5635" y="274.0" />
+              <point x="-24.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Resourceable" target="com.learnyeai.resource.core.operable.Downloadable">
+              <point x="-33.0" y="-15.0" />
+              <point x="707.7914999999999" y="264.0" />
+              <point x="579.0414999999999" y="264.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.document.type.Doc" target="com.learnyeai.resource.core.DocumentType">
+              <point x="0.0" y="-15.0" />
+              <point x="827.0635" y="454.0" />
+              <point x="910.6999999999999" y="454.0" />
+              <point x="-28.600000000000023" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="183.49999999999994" y="254.0" />
+              <point x="339.2914999999999" y="254.0" />
+              <point x="-48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-44.25" y="-15.0" />
+              <point x="338.0414999999999" y="274.0" />
+              <point x="404.2914999999999" y="274.0" />
+              <point x="16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="51.49999999999994" y="-15.0" />
+              <point x="252.89699999999988" y="374.0" />
+              <point x="338.0414999999999" y="374.0" />
+              <point x="-44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.DocumentDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="710.6039999999999" y="551.0" />
+              <point x="691.0635" y="551.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="75.75" y="-15.0" />
+              <point x="363.0414999999999" y="454.0" />
+              <point x="565.0635" y="454.0" />
+              <point x="-43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.document.type.Pdf" target="com.learnyeai.resource.core.DocumentType">
+              <point x="0.0" y="-15.0" />
+              <point x="1008.5635" y="454.0" />
+              <point x="967.9" y="454.0" />
+              <point x="28.600000000000023" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.task.ResourceableTaskDetails">
+              <point x="-61.0" y="-15.0" />
+              <point x="649.6039999999999" y="551.0" />
+              <point x="287.2914999999999" y="551.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.DownloadableTaskDetails">
+              <point x="-25.25" y="-15.0" />
+              <point x="262.0414999999999" y="444.0" />
+              <point x="201.39699999999993" y="444.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-34.5" y="-15.0" />
+              <point x="530.0414999999999" y="264.0" />
+              <point x="436.7914999999999" y="264.0" />
+              <point x="48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="21.625" y="-15.0" />
+              <point x="629.9385" y="374.0" />
+              <point x="599.0414999999999" y="374.0" />
+              <point x="34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentTaskDetails" target="com.learnyeai.resource.core.DocumentType">
+              <point x="61.0" y="-15.0" />
+              <point x="771.6039999999999" y="551.0" />
+              <point x="1054.5635" y="551.0" />
+              <point x="1054.5635" y="444.0" />
+              <point x="996.5" y="444.0" />
+              <point x="57.200000000000045" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="-21.625" y="-15.0" />
+              <point x="586.6885" y="344.0" />
+              <point x="426.5414999999999" y="344.0" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.operable.Downloadable">
+              <point x="44.25" y="-15.0" />
+              <point x="426.5414999999999" y="274.0" />
+              <point x="511.0414999999999" y="274.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-75.75" y="-15.0" />
+              <point x="211.54149999999993" y="454.0" />
+              <point x="77.56249999999994" y="454.0" />
+              <point x="77.56249999999994" y="374.0" />
+              <point x="90.74999999999994" y="374.0" />
+              <point x="-53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentDetails" target="com.learnyeai.resource.core.DocumentType">
+              <point x="39.5" y="-26.0" />
+              <point x="730.5635" y="444.0" />
+              <point x="882.0999999999999" y="444.0" />
+              <point x="-57.200000000000045" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-64.875" y="-15.0" />
+              <point x="543.4385" y="354.0" />
+              <point x="283.2914999999999" y="354.0" />
+              <point x="283.2914999999999" y="264.0" />
+              <point x="371.7914999999999" y="264.0" />
+              <point x="-16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.DocumentDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="-39.5" y="-26.0" />
+              <point x="43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Downloadable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="545.0414999999999" y="157.0" />
+              <point x="664.6469999999999" y="157.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="147.99999999999994" y="157.0" />
+              <point x="311.5414999999999" y="157.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-41.75" y="-15.0" />
+              <point x="366.14699999999993" y="364.0" />
+              <point x="196.74999999999994" y="364.0" />
+              <point x="53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Resourceable" target="com.learnyeai.resource.core.operable.Preview">
+              <point x="33.0" y="-15.0" />
+              <point x="773.7914999999999" y="274.0" />
+              <point x="766.0635" y="274.0" />
+              <point x="24.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="41.75" y="-15.0" />
+              <point x="449.64699999999993" y="374.0" />
+              <point x="530.0414999999999" y="374.0" />
+              <point x="-34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8476277372262774" x="268.0" y="204.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.ExamDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.ExamDetails</OriginalElement>
+          <nodes>
+            <node x="94.75" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="162.25" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="212.0" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="343.875" y="364.0">com.learnyeai.resource.core.ExamDetails</node>
+            <node x="16.0" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="369.375" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="0.0" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="128.25" y="364.0">com.learnyeai.resource.core.task.InteractiveTaskDetails</node>
+            <node x="289.625" y="284.0">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="230.75" y="444.0">com.learnyeai.resource.core.ExamTaskDetails</node>
+            <node x="364.875" y="193.0">com.learnyeai.resource.core.operable.Interactive</node>
+            <node x="182.75" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="46.0" y="-15.0" />
+              <point x="266.25" y="339.0" />
+              <point x="328.375" y="339.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="134.5" y="259.0" />
+              <point x="104.0" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-38.75" y="-15.0" />
+              <point x="328.375" y="259.0" />
+              <point x="309.5" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Interactive" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="38.75" y="-15.0" />
+              <point x="405.875" y="259.0" />
+              <point x="421.875" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="214.0" y="259.0" />
+              <point x="244.5" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ExamTaskDetails" target="com.learnyeai.resource.core.task.InteractiveTaskDetails">
+              <point x="-38.25" y="-15.0" />
+              <point x="269.0" y="419.0" />
+              <point x="220.25" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="148.0" y="157.0" />
+              <point x="200.5" y="157.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-46.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ExamTaskDetails" target="com.learnyeai.resource.core.ExamDetails">
+              <point x="38.25" y="-15.0" />
+              <point x="345.5" y="419.0" />
+              <point x="405.875" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ExamDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="15.0" y="140.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.FlashDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.FlashDetails</OriginalElement>
+          <nodes>
+            <node x="94.75" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="162.25" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="140.75" y="444.0">com.learnyeai.resource.core.FlashTaskDetails</node>
+            <node x="212.0" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="16.0" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="360.375" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="131.75" y="364.0">com.learnyeai.resource.core.task.PlayableTaskDetails</node>
+            <node x="362.875" y="193.0">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="0.0" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="291.125" y="284.0">com.learnyeai.resource.core.details.PlayableDetails</node>
+            <node x="335.375" y="364.0">com.learnyeai.resource.core.FlashDetails</node>
+            <node x="182.75" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="134.5" y="259.0" />
+              <point x="104.0" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.FlashTaskDetails" target="com.learnyeai.resource.core.task.PlayableTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-35.25" y="-15.0" />
+              <point x="326.375" y="259.0" />
+              <point x="309.5" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PlayableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-42.5" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Playable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PlayableTaskDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="42.5" y="-15.0" />
+              <point x="259.25" y="339.0" />
+              <point x="326.375" y="339.0" />
+              <point x="-35.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.FlashDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="35.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.operable.Playable">
+              <point x="35.25" y="-15.0" />
+              <point x="396.875" y="259.0" />
+              <point x="412.875" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="214.0" y="259.0" />
+              <point x="244.5" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="148.0" y="157.0" />
+              <point x="200.5" y="157.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="9.0" y="140.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.HomeworkDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.HomeworkDetails</OriginalElement>
+          <nodes>
+            <node x="94.75" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="162.25" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="212.0" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="16.0" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="377.625" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="0.0" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="335.625" y="364.0">com.learnyeai.resource.core.HomeworkDetails</node>
+            <node x="128.25" y="364.0">com.learnyeai.resource.core.task.InteractiveTaskDetails</node>
+            <node x="297.875" y="284.0">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="373.125" y="193.0">com.learnyeai.resource.core.operable.Interactive</node>
+            <node x="222.5" y="444.0">com.learnyeai.resource.core.HomeworkTaskDetails</node>
+            <node x="182.75" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.HomeworkTaskDetails" target="com.learnyeai.resource.core.task.InteractiveTaskDetails">
+              <point x="-46.5" y="-15.0" />
+              <point x="269.0" y="419.0" />
+              <point x="220.25" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="46.0" y="-15.0" />
+              <point x="266.25" y="339.0" />
+              <point x="336.625" y="339.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="134.5" y="259.0" />
+              <point x="104.0" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-38.75" y="-15.0" />
+              <point x="336.625" y="259.0" />
+              <point x="309.5" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Interactive" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="38.75" y="-15.0" />
+              <point x="414.125" y="259.0" />
+              <point x="430.125" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.HomeworkTaskDetails" target="com.learnyeai.resource.core.HomeworkDetails">
+              <point x="46.5" y="-15.0" />
+              <point x="362.0" y="419.0" />
+              <point x="414.125" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="214.0" y="259.0" />
+              <point x="244.5" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.HomeworkDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="148.0" y="157.0" />
+              <point x="200.5" y="157.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-46.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="22.0" y="140.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.PptDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.PptDetails</OriginalElement>
+          <nodes>
+            <node x="254.83796296296302" y="494.0">com.learnyeai.resource.core.PptTaskDetails</node>
+            <node x="40.75" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="331.08796296296305" y="193.0">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="0.0" y="414.0">com.learnyeai.resource.core.task.PlayableTaskDetails</node>
+            <node x="456.56481481481484" y="414.0">com.learnyeai.resource.core.task.PreviewTaskDetails</node>
+            <node x="530.962962962963" y="294.0">com.learnyeai.resource.core.details.DownloadableDetails</node>
+            <node x="707.4027777777778" y="414.0">com.learnyeai.resource.core.PptDetails</node>
+            <node x="369.96296296296305" y="294.0">com.learnyeai.resource.core.details.PlayableDetails</node>
+            <node x="230.56481481481484" y="414.0">com.learnyeai.resource.core.task.DownloadableTaskDetails</node>
+            <node x="762.4444444444446" y="294.0">com.learnyeai.resource.core.details.PreviewDetails</node>
+            <node x="89.0" y="294.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="817.4444444444446" y="193.0">com.learnyeai.resource.core.operable.Preview</node>
+            <node x="340.4027777777778" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="460.46296296296305" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="633.5231481481482" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="24.75" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="619.837962962963" y="193.0">com.learnyeai.resource.core.operable.Downloadable</node>
+            <node x="360.9027777777778" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.PptDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="-37.33333333333334" y="-15.0" />
+              <point x="726.0694444444445" y="354.0" />
+              <point x="475.71296296296305" y="354.0" />
+              <point x="35.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Preview" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="865.9444444444446" y="162.0" />
+              <point x="721.0231481481482" y="162.0" />
+              <point x="35.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PptTaskDetails" target="com.learnyeai.resource.core.task.PlayableTaskDetails">
+              <point x="-47.0" y="-15.0" />
+              <point x="278.33796296296305" y="469.0" />
+              <point x="85.0" y="469.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Playable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="381.08796296296305" y="162.0" />
+              <point x="651.0231481481482" y="162.0" />
+              <point x="-35.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PlayableTaskDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="42.5" y="-15.0" />
+              <point x="127.5" y="384.0" />
+              <point x="405.21296296296305" y="384.0" />
+              <point x="-35.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PptTaskDetails" target="com.learnyeai.resource.core.task.DownloadableTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="325.33796296296305" y="469.0" />
+              <point x="333.56481481481484" y="469.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-51.5" y="-15.0" />
+              <point x="282.06481481481484" y="374.0" />
+              <point x="168.5" y="374.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.operable.Preview">
+              <point x="34.5" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="208.25" y="264.0" />
+              <point x="476.71296296296305" y="264.0" />
+              <point x="-48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-44.25" y="-15.0" />
+              <point x="575.212962962963" y="274.0" />
+              <point x="541.712962962963" y="274.0" />
+              <point x="16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="51.5" y="-15.0" />
+              <point x="385.06481481481484" y="394.0" />
+              <point x="575.212962962963" y="394.0" />
+              <point x="-44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="35.25" y="-15.0" />
+              <point x="475.71296296296305" y="274.0" />
+              <point x="509.21296296296305" y="274.0" />
+              <point x="-16.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PlayableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-42.5" y="-15.0" />
+              <point x="42.5" y="394.0" />
+              <point x="115.5" y="394.0" />
+              <point x="-53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-34.5" y="-15.0" />
+              <point x="796.9444444444446" y="264.0" />
+              <point x="574.212962962963" y="264.0" />
+              <point x="48.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PptDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="763.4027777777778" y="344.0" />
+              <point x="663.712962962963" y="344.0" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PptDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="37.33333333333334" y="-15.0" />
+              <point x="800.7361111111112" y="394.0" />
+              <point x="865.9444444444446" y="394.0" />
+              <point x="34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.operable.Playable">
+              <point x="-35.25" y="-15.0" />
+              <point x="405.21296296296305" y="254.0" />
+              <point x="381.08796296296305" y="254.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.operable.Downloadable">
+              <point x="44.25" y="-15.0" />
+              <point x="663.712962962963" y="274.0" />
+              <point x="687.837962962963" y="274.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Downloadable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="687.837962962963" y="162.0" />
+              <point x="686.0231481481482" y="162.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PptTaskDetails" target="com.learnyeai.resource.core.task.PreviewTaskDetails">
+              <point x="47.0" y="-15.0" />
+              <point x="372.33796296296305" y="469.0" />
+              <point x="540.0648148148148" y="469.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="172.75" y="152.0" />
+              <point x="378.6527777777778" y="152.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="-41.75" y="-15.0" />
+              <point x="498.31481481481484" y="364.0" />
+              <point x="221.5" y="364.0" />
+              <point x="53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="41.75" y="-15.0" />
+              <point x="581.8148148148148" y="384.0" />
+              <point x="796.9444444444446" y="384.0" />
+              <point x="-34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="525.462962962963" y="152.0" />
+              <point x="455.1527777777778" y="152.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5133689839572193" x="457.0" y="262.0" />
+          <SelectedNodes>
+            <node>com.learnyeai.resource.core.PptDetails</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.PracticeDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.PracticeDetails</OriginalElement>
+          <nodes>
+            <node x="229.12499999999997" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="167.62499999999997" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="2.9999999999999716" y="364.0">com.learnyeai.resource.core.PracticeDetails</node>
+            <node x="140.87499999999997" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="4.5" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="290.875" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="87.125" y="444.0">com.learnyeai.resource.core.PracticeTaskDetails</node>
+            <node x="362.875" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="170.625" y="364.0">com.learnyeai.resource.core.task.InteractiveTaskDetails</node>
+            <node x="34.24999999999997" y="284.0">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="0.0" y="193.0">com.learnyeai.resource.core.operable.Interactive</node>
+            <node x="188.12499999999997" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="-46.00000000000003" y="-15.0" />
+              <point x="216.62499999999997" y="339.0" />
+              <point x="150.49999999999997" y="339.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="348.375" y="259.0" />
+              <point x="378.875" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="38.75" y="-15.0" />
+              <point x="150.49999999999997" y="259.0" />
+              <point x="173.37499999999997" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Interactive" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PracticeDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PracticeTaskDetails" target="com.learnyeai.resource.core.task.InteractiveTaskDetails">
+              <point x="42.25" y="-15.0" />
+              <point x="213.875" y="419.0" />
+              <point x="262.625" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.PracticeTaskDetails" target="com.learnyeai.resource.core.PracticeDetails">
+              <point x="-42.25" y="-15.0" />
+              <point x="129.375" y="419.0" />
+              <point x="72.99999999999997" y="419.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="-38.75" y="-15.0" />
+              <point x="72.99999999999997" y="259.0" />
+              <point x="57.0" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="268.875" y="259.0" />
+              <point x="238.37499999999997" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="334.875" y="157.0" />
+              <point x="282.375" y="157.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.InteractiveTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="45.99999999999997" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9542743538767395" x="242.0" y="237.0" />
+          <SelectedNodes>
+            <node>com.learnyeai.resource.core.PracticeDetails</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.ResourcesDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.ResourcesDetails</OriginalElement>
+          <nodes>
+            <node x="607.8269927536231" y="570.0">com.learnyeai.resource.core.task.ResourceableTaskDetails</node>
+            <node x="863.5625" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="539.9375" y="457.0">com.learnyeai.resource.core.task.PreviewTaskDetails</node>
+            <node x="346.93750000000006" y="457.0">com.learnyeai.resource.core.details.ResourceableDetails</node>
+            <node x="587.4338768115942" y="344.0">com.learnyeai.resource.core.details.DownloadableDetails</node>
+            <node x="0.0" y="424.0">java.lang.Iterable</node>
+            <node x="726.9375" y="457.0">com.learnyeai.resource.core.task.DownloadableTaskDetails</node>
+            <node x="228.32699275362313" y="570.0">com.learnyeai.resource.core.ResourcesDetails</node>
+            <node x="407.18387681159425" y="344.0">com.learnyeai.resource.core.details.PreviewDetails</node>
+            <node x="832.3125" y="344.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="132.12500000000006" y="193.0">com.learnyeai.resource.core.operable.Preview</node>
+            <node x="518.947463768116" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="492.19746376811594" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="196.37500000000006" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="935.5625" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="122.19746376811594" y="344.0">com.learnyeai.resource.core.operable.Resourceable</node>
+            <node x="460.70199275362313" y="650.0">com.learnyeai.resource.core.ResourcesTaskDetails</node>
+            <node x="336.19746376811594" y="193.0">com.learnyeai.resource.core.operable.Downloadable</node>
+            <node x="539.447463768116" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.operable.Preview" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="180.62500000000006" y="157.0" />
+              <point x="222.62500000000006" y="157.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.PreviewTaskDetails">
+              <point x="-25.25" y="-15.0" />
+              <point x="683.5769927536231" y="540.0" />
+              <point x="623.4375" y="540.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ResourcesDetails" target="java.lang.Iterable">
+              <point x="-51.66666666666663" y="-15.0" />
+              <point x="254.1603260869565" y="550.0" />
+              <point x="147.5" y="550.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ResourcesDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="51.66666666666663" y="-15.0" />
+              <point x="357.49365942028976" y="550.0" />
+              <point x="390.18750000000006" y="550.0" />
+              <point x="-43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.operable.Resourceable">
+              <point x="-64.875" y="-15.0" />
+              <point x="368.56250000000006" y="404.0" />
+              <point x="188.19746376811594" y="404.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ResourcesTaskDetails" target="com.learnyeai.resource.core.task.ResourceableTaskDetails">
+              <point x="46.0" y="-15.0" />
+              <point x="598.7019927536231" y="625.0" />
+              <point x="708.8269927536231" y="625.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="51.5" y="-15.0" />
+              <point x="881.4375" y="404.0" />
+              <point x="911.8125" y="404.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.operable.Preview">
+              <point x="-34.5" y="-15.0" />
+              <point x="441.68387681159425" y="284.0" />
+              <point x="204.87500000000006" y="284.0" />
+              <point x="24.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Resourceable" target="com.learnyeai.resource.core.operable.Downloadable">
+              <point x="33.0" y="-15.0" />
+              <point x="221.19746376811594" y="294.0" />
+              <point x="370.19746376811594" y="294.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="872.0625" y="254.0" />
+              <point x="609.197463768116" y="254.0" />
+              <point x="52.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ResourcesDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="305.50000000000006" y="304.0" />
+              <point x="505.19746376811594" y="304.0" />
+              <point x="-52.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="44.25" y="-15.0" />
+              <point x="720.1838768115942" y="264.0" />
+              <point x="583.197463768116" y="264.0" />
+              <point x="26.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.DownloadableTaskDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="-51.5" y="-15.0" />
+              <point x="778.4375" y="394.0" />
+              <point x="720.1838768115942" y="394.0" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.details.ResourceableDetails">
+              <point x="-75.75" y="-15.0" />
+              <point x="633.0769927536231" y="550.0" />
+              <point x="476.68750000000006" y="550.0" />
+              <point x="43.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.DownloadableTaskDetails">
+              <point x="25.25" y="-15.0" />
+              <point x="734.0769927536231" y="540.0" />
+              <point x="829.9375" y="540.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PreviewDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="34.5" y="-15.0" />
+              <point x="510.68387681159425" y="324.0" />
+              <point x="557.197463768116" y="324.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="21.625" y="-15.0" />
+              <point x="455.06250000000006" y="404.0" />
+              <point x="441.68387681159425" y="404.0" />
+              <point x="-34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.DownloadableDetails">
+              <point x="64.875" y="-15.0" />
+              <point x="498.31250000000006" y="404.0" />
+              <point x="631.6838768115942" y="404.0" />
+              <point x="-44.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.DownloadableDetails" target="com.learnyeai.resource.core.operable.Downloadable">
+              <point x="-44.25" y="-15.0" />
+              <point x="631.6838768115942" y="274.0" />
+              <point x="438.19746376811594" y="274.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.ResourceableTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="75.75" y="-15.0" />
+              <point x="784.5769927536231" y="550.0" />
+              <point x="943.4375" y="550.0" />
+              <point x="943.4375" y="404.0" />
+              <point x="964.8125" y="404.0" />
+              <point x="53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.ResourceableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-21.625" y="-15.0" />
+              <point x="411.81250000000006" y="394.0" />
+              <point x="348.68750000000006" y="394.0" />
+              <point x="348.68750000000006" y="314.0" />
+              <point x="531.197463768116" y="314.0" />
+              <point x="-26.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Downloadable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="404.19746376811594" y="157.0" />
+              <point x="275.12500000000006" y="157.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="907.5625" y="157.0" />
+              <point x="633.697463768116" y="157.0" />
+              <point x="38.25000000000006" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="5.6843418860808015E-14" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="41.75" y="-15.0" />
+              <point x="665.1875" y="404.0" />
+              <point x="858.8125" y="404.0" />
+              <point x="-53.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Resourceable" target="com.learnyeai.resource.core.operable.Preview">
+              <point x="-33.0" y="-15.0" />
+              <point x="155.19746376811594" y="324.0" />
+              <point x="156.37500000000006" y="324.0" />
+              <point x="-24.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.PreviewTaskDetails" target="com.learnyeai.resource.core.details.PreviewDetails">
+              <point x="-41.75" y="-15.0" />
+              <point x="581.6875" y="394.0" />
+              <point x="510.68387681159425" y="394.0" />
+              <point x="34.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.ResourcesTaskDetails" target="com.learnyeai.resource.core.ResourcesDetails">
+              <point x="-46.0" y="-15.0" />
+              <point x="506.70199275362313" y="625.0" />
+              <point x="305.82699275362313" y="625.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.446096654275093" x="528.0" y="340.0" />
+          <SelectedNodes>
+            <node>com.learnyeai.resource.core.ResourcesDetails</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.StudioDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.StudioDetails</OriginalElement>
+          <nodes>
+            <node x="417.25" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="0.0" y="193.0">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="178.75" y="364.0">com.learnyeai.resource.core.StudioDetails</node>
+            <node x="385.5" y="364.0">com.learnyeai.resource.core.StudioTaskDetails</node>
+            <node x="166.75" y="284.0">com.learnyeai.resource.core.details.InteractiveDetails</node>
+            <node x="386.0" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="294.0" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="267.25" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="63.76785714285711" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="489.25" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="21.25" y="284.0">com.learnyeai.resource.core.operable.Studioable</node>
+            <node x="120.0" y="193.0">com.learnyeai.resource.core.operable.Interactive</node>
+            <node x="314.5" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="38.75" y="-15.0" />
+              <point x="283.0" y="259.0" />
+              <point x="288.9166666666667" y="259.0" />
+              <point x="-43.33333333333334" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Interactive" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="177.0" y="157.0" />
+              <point x="142.51785714285717" y="157.0" />
+              <point x="26.250000000000057" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.StudioTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Playable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="50.0" y="157.0" />
+              <point x="90.01785714285711" y="157.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.InteractiveDetails" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="-38.75" y="-15.0" />
+              <point x="28.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="425.75" y="259.0" />
+              <point x="375.58333333333337" y="259.0" />
+              <point x="43.33333333333337" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Studioable" target="com.learnyeai.resource.core.operable.Playable">
+              <point x="-28.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Studioable" target="com.learnyeai.resource.core.operable.Interactive">
+              <point x="28.75" y="-15.0" />
+              <point x="107.5" y="259.0" />
+              <point x="148.5" y="259.0" />
+              <point x="-28.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.StudioDetails" target="com.learnyeai.resource.core.operable.Studioable">
+              <point x="-43.66666666666663" y="-15.0" />
+              <point x="200.58333333333337" y="339.0" />
+              <point x="78.75" y="339.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="461.25" y="157.0" />
+              <point x="408.75" y="157.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.StudioDetails" target="com.learnyeai.resource.core.details.InteractiveDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.StudioDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="43.666666666666686" y="-15.0" />
+              <point x="287.9166666666667" y="339.0" />
+              <point x="332.25" y="339.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7619047619047619" x="305.0" y="197.0" />
+          <SelectedNodes>
+            <node>com.learnyeai.resource.core.StudioDetails</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.VideoDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.VideoDetails</OriginalElement>
+          <nodes>
+            <node x="212.75" y="364.0">com.learnyeai.resource.core.VideoTaskDetails</node>
+            <node x="210.75" y="284.0">com.learnyeai.resource.core.task.OnlineTaskDetails</node>
+            <node x="149.25" y="80.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="122.5" y="193.0">com.learnyeai.resource.core.details.OnlineDetails</node>
+            <node x="0.0" y="91.0">com.learnyeai.resource.core.operable.Operable</node>
+            <node x="272.5" y="182.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="40.75" y="364.0">com.learnyeai.resource.core.VideoDetails</node>
+            <node x="2.5" y="193.0">com.learnyeai.resource.core.operable.Playable</node>
+            <node x="344.5" y="80.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="33.25" y="284.0">com.learnyeai.resource.core.details.PlayableDetails</node>
+            <node x="169.75" y="0.0">com.learnyeai.resource.core.details.Teachable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.VideoTaskDetails" target="com.learnyeai.resource.core.task.OnlineTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="39.75" y="-15.0" />
+              <point x="330.0" y="259.0" />
+              <point x="360.5" y="259.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.OnlineTaskDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="-39.75" y="-15.0" />
+              <point x="250.5" y="259.0" />
+              <point x="220.0" y="259.0" />
+              <point x="32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.details.OnlineDetails">
+              <point x="35.25" y="-15.0" />
+              <point x="139.0" y="259.0" />
+              <point x="155.0" y="259.0" />
+              <point x="-32.5" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="316.5" y="157.0" />
+              <point x="264.0" y="157.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.TeachableDetails" target="com.learnyeai.resource.core.details.Teachable">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.operable.Playable" target="com.learnyeai.resource.core.operable.Operable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.VideoDetails" target="com.learnyeai.resource.core.details.PlayableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.OnlineDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.details.PlayableDetails" target="com.learnyeai.resource.core.operable.Playable">
+              <point x="-35.25" y="-15.0" />
+              <point x="68.5" y="259.0" />
+              <point x="52.5" y="259.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="233.0" y="197.0" />
+          <SelectedNodes>
+            <node>com.learnyeai.resource.core.VideoDetails</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.taskpool.TeachingTaskPool">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.taskpool.TeachingTaskPool</OriginalElement>
+          <nodes>
+            <node x="455.0" y="22.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="368.0" y="248.0">com.learnyeai.resource.core.taskpool.TeachingTaskPool</node>
+            <node x="361.0" y="146.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="315.0" y="22.0">com.learnyeai.resource.core.details.TaskDetails</node>
+            <node x="0.0" y="0.0">java.lang.Iterable</node>
+            <node x="110.75" y="157.0">com.learnyeai.resource.core.taskpool.TaskDetailsPool</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="-44.0" y="-26.0" />
+              <point x="30.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.taskpool.TaskDetailsPool" target="com.learnyeai.resource.core.details.TaskDetails">
+              <point x="36.75" y="-15.0" />
+              <point x="221.0" y="121.0" />
+              <point x="345.0" y="121.0" />
+              <point x="-30.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.taskpool.TeachingTaskPool" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="54.0" y="-15.0" />
+              <point x="503.0" y="223.0" />
+              <point x="569.75" y="223.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.taskpool.TeachingTaskPool" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="44.0" y="-26.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.taskpool.TeachingTaskPool" target="com.learnyeai.resource.core.taskpool.TaskDetailsPool">
+              <point x="-54.0" y="-15.0" />
+              <point x="395.0" y="223.0" />
+              <point x="184.25" y="223.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.taskpool.TaskDetailsPool" target="java.lang.Iterable">
+              <point x="-36.75" y="-15.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="10.0" y="-3.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.course.ChapterDetails">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.course.ChapterDetails</OriginalElement>
+          <nodes>
+            <node x="198.0" y="102.0">com.learnyeai.resource.core.course.ChapterDetails</node>
+            <node x="218.0" y="0.0">com.learnyeai.resource.core.course.SectionDetails</node>
+            <node x="0.0" y="204.0">com.learnyeai.resource.core.course.CourseDetails</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
+              <point x="0.0" y="-37.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.course.ChapterDetails" target="com.learnyeai.resource.core.course.SectionDetails">
+              <point x="-58.75" y="-26.0" />
+              <point x="256.75" y="77.0" />
+              <point x="266.75" y="77.0" />
+              <point x="-48.75" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.course.SectionDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
+              <point x="48.75" y="26.0" />
+              <point x="364.25" y="77.0" />
+              <point x="374.25" y="77.0" />
+              <point x="58.75" y="-26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="315.5" y="139.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
