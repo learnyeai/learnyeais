@@ -4,6 +4,8 @@ import java.util.List;
 
 public interface ChapterDetails {
 
+	String getName();
+	
 	List<SectionDetails> getSections();
 
 }

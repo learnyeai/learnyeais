@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="" />
+    <list default="true" id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/ResourcesDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/ResourcesDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Downloadable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Downloadable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Interactive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Interactive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Playable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Preview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Preview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Resourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Resourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Studioable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Studioable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TaskDetailsPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TaskDetailsPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TeachingTaskPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TeachingTaskPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/ResourcesDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/ResourcesDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/ChapterDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/ChapterDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/CourseDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/CourseDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/SectionDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/SectionDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Downloadable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Downloadable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Interactive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Interactive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Playable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Preview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Preview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Resourceable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Resourceable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Studioable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Studioable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TaskDetailsPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TaskDetailsPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TeachingTaskPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TeachingTaskPool.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,80 +36,137 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.learnyeai.resource.core.course.ChapterDetails">
+        <entry file="uml://JAVA/com.learnyeai.resource.core.plan.SectionPlanDirctory">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.learnyeai.resource.core.course.ChapterDetails</OriginalElement>
+              <OriginalElement>com.learnyeai.resource.core.plan.SectionPlanDirctory</OriginalElement>
               <nodes>
-                <node x="198.0" y="102.0">com.learnyeai.resource.core.course.ChapterDetails</node>
-                <node x="218.0" y="0.0">com.learnyeai.resource.core.course.SectionDetails</node>
-                <node x="0.0" y="204.0">com.learnyeai.resource.core.course.CourseDetails</node>
+                <node x="470.5" y="0.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+                <node x="751.2248677248677" y="490.0">com.learnyeai.resource.core.plan.TeachingPlan</node>
+                <node x="377.0" y="156.0">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
+                <node x="410.6805555555555" y="490.0">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
+                <node x="833.25" y="302.0">java.util.Iterator</node>
+                <node x="1087.1666666666665" y="490.0">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
+                <node x="0.0" y="490.0">com.learnyeai.resource.core.plan.SectionPlanDirctory</node>
+                <node x="58.0" y="112.0">com.learnyeai.resource.core.course.CourseDetails</node>
+                <node x="482.25" y="324.0">com.learnyeai.resource.core.plan.PlanDirectory</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
-                  <point x="0.0" y="-37.0" />
+                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="java.util.Iterator">
+                  <point x="44.0" y="-26.0" />
+                  <point x="861.2248677248677" y="470.0" />
+                  <point x="1012.25" y="470.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="java.util.Iterator">
+                  <point x="-39.75" y="-26.0" />
+                  <point x="1126.9166666666665" y="470.0" />
+                  <point x="1131.5833333333333" y="470.0" />
+                  <point x="119.33333333333331" y="59.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="-47.5" y="-26.0" />
+                  <point x="47.5" y="72.0" />
+                  <point x="481.42857142857144" y="72.0" />
+                  <point x="-65.57142857142856" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.plan.PlanDirectory">
+                  <point x="-44.0" y="-26.0" />
+                  <point x="773.2248677248677" y="470.0" />
+                  <point x="740.5833333333333" y="470.0" />
+                  <point x="103.33333333333326" y="37.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.TeachingTaskPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="0.0" y="-26.0" />
                   <point x="0.0" y="26.0" />
                 </edge>
-                <edge source="com.learnyeai.resource.core.course.ChapterDetails" target="com.learnyeai.resource.core.course.SectionDetails">
-                  <point x="-58.75" y="-26.0" />
-                  <point x="256.75" y="77.0" />
-                  <point x="266.75" y="77.0" />
-                  <point x="-48.75" y="26.0" />
+                <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="-48.75" y="-26.0" />
+                  <point x="459.4305555555555" y="460.0" />
+                  <point x="366.5" y="460.0" />
+                  <point x="366.5" y="92.0" />
+                  <point x="525.1428571428571" y="92.0" />
+                  <point x="-21.85714285714289" y="26.0" />
                 </edge>
-                <edge source="com.learnyeai.resource.core.course.SectionDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
-                  <point x="48.75" y="26.0" />
-                  <point x="364.25" y="77.0" />
-                  <point x="374.25" y="77.0" />
-                  <point x="58.75" y="-26.0" />
+                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="0.0" y="-26.0" />
+                  <point x="817.2248677248677" y="470.0" />
+                  <point x="802.75" y="470.0" />
+                  <point x="802.75" y="82.0" />
+                  <point x="590.7142857142857" y="82.0" />
+                  <point x="43.714285714285666" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.plan.PlanDirectory">
+                  <point x="48.75" y="-26.0" />
+                  <point x="556.9305555555554" y="470.0" />
+                  <point x="637.25" y="470.0" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="0.0" y="-70.0" />
+                  <point x="207.0" y="82.0" />
+                  <point x="503.2857142857142" y="82.0" />
+                  <point x="-43.71428571428578" y="26.0" />
+                </edge>
+                <edge source="java.util.Iterator" target="java.util.Iterator">
+                  <point x="-119.33333333333331" y="59.0" />
+                  <point x="892.9166666666667" y="440.0" />
+                  <point x="813.25" y="440.0" />
+                  <point x="813.25" y="361.0" />
+                  <point x="-179.0" y="-0.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="77.5" y="-37.0" />
+                  <point x="714.75" y="277.0" />
+                  <point x="727.5" y="277.0" />
+                  <point x="727.5" y="92.0" />
+                  <point x="568.8571428571428" y="92.0" />
+                  <point x="21.857142857142776" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="com.learnyeai.resource.core.details.TeachableDetails">
+                  <point x="39.75" y="-26.0" />
+                  <point x="1206.4166666666665" y="470.0" />
+                  <point x="1201.75" y="470.0" />
+                  <point x="1201.75" y="72.0" />
+                  <point x="612.5714285714286" y="72.0" />
+                  <point x="65.57142857142856" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.plan.TeachingTaskPlan">
+                  <point x="-77.5" y="-37.0" />
+                  <point x="559.75" y="277.0" />
+                  <point x="547.0" y="277.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.plan.PlanDirectory">
+                  <point x="47.5" y="-26.0" />
+                  <point x="142.5" y="470.0" />
+                  <point x="533.9166666666666" y="470.0" />
+                  <point x="-103.33333333333337" y="37.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="315.5" y="139.0" />
+              <settings layout="Hierarchic Group" zoom="0.8" x="601.5" y="271.0" />
               <SelectedNodes />
               <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
                 <Category>Inner Classes</Category>
+                <Category>Properties</Category>
+                <Category>Methods</Category>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
               </Categories>
               <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+              <VISIBILITY>public</VISIBILITY>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,11 +180,13 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +263,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="plan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnyeai-resource-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnyeai-resource-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="scene" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -202,14 +296,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559006357336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559013562462" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -237,18 +330,23 @@
       <updated>1558956528786</updated>
       <workItem from="1558956530084" duration="3288000" />
       <workItem from="1558961429641" duration="276000" />
-      <workItem from="1558961736731" duration="199000" />
+      <workItem from="1558961736731" duration="1455000" />
+      <workItem from="1559011056372" duration="474000" />
+      <workItem from="1559011697016" duration="358000" />
+      <workItem from="1559012069225" duration="445000" />
+      <workItem from="1559012773794" duration="434000" />
+      <workItem from="1559013296646" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3763000" />
+    <option name="totallyTimeSpent" value="6994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28917608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024232633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -2123,43 +2221,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.learnyeai.resource.core.course.ChapterDetails">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>com.learnyeai.resource.core.course.ChapterDetails</OriginalElement>
           <nodes>
-            <node x="198.0" y="102.0">com.learnyeai.resource.core.course.ChapterDetails</node>
-            <node x="218.0" y="0.0">com.learnyeai.resource.core.course.SectionDetails</node>
-            <node x="0.0" y="204.0">com.learnyeai.resource.core.course.CourseDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.course.ChapterDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.course.SectionDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.course.CourseDetails</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="26.0" />
-            </edge>
-            <edge source="com.learnyeai.resource.core.course.ChapterDetails" target="com.learnyeai.resource.core.course.SectionDetails">
-              <point x="-58.75" y="-26.0" />
-              <point x="256.75" y="77.0" />
-              <point x="266.75" y="77.0" />
-              <point x="-48.75" y="26.0" />
-            </edge>
-            <edge source="com.learnyeai.resource.core.course.SectionDetails" target="com.learnyeai.resource.core.course.ChapterDetails">
-              <point x="48.75" y="26.0" />
-              <point x="364.25" y="77.0" />
-              <point x="374.25" y="77.0" />
-              <point x="58.75" y="-26.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="315.5" y="139.0" />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="316.0" y="139.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -2170,6 +2244,306 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/plan/TeachingTaskPlanPool.java" />
+    <entry file="uml://JAVA/com.learnyeai.resource.core.plan.TeachingTaskPlan">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.plan.TeachingTaskPlan</OriginalElement>
+          <nodes>
+            <node x="" y="">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="109.0" y="95.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/plan/TeachingPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/plan/TeachingPlanPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/details/ResourceableDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.plan.ChapterPlanDirectory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.plan.ChapterPlanDirectory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.learnyeai.resource.core.plan.TeachingPlan</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
+            <node x="" y="">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="" y="">java.util.Iterator</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
+            <node x="" y="">com.learnyeai.resource.core.course.ChapterDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
+            <node x="" y="">com.learnyeai.resource.core.course.SectionDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.course.CourseDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.SectionPlanDirctory</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.TeachingTaskPlanPool</node>
+            <node x="" y="">com.learnyeai.resource.core.plan.PlanDirectory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8152380952380952" x="505.0" y="232.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.plan.PlanDirectory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.plan.PlanDirectory</OriginalElement>
+          <nodes>
+            <node x="471.0" y="0.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="179.0" y="166.0">com.learnyeai.resource.core.plan.TeachingPlan</node>
+            <node x="331.0" y="166.0">com.learnyeai.resource.core.task.TeachingTaskDetails</node>
+            <node x="845.0" y="166.0">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
+            <node x="78.375" y="11.0">java.util.Iterator</node>
+            <node x="690.1388888888888" y="312.0">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
+            <node x="0.0" y="166.0">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
+            <node x="527.0" y="122.0">com.learnyeai.resource.core.course.CourseDetails</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="33.0" y="-26.0" />
+              <point x="278.0" y="92.0" />
+              <point x="509.25" y="92.0" />
+              <point x="-38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="java.util.Iterator">
+              <point x="-33.0" y="-26.0" />
+              <point x="212.0" y="72.0" />
+              <point x="149.625" y="72.0" />
+              <point x="23.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.task.TeachingTaskDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-26.0" />
+              <point x="419.0" y="102.0" />
+              <point x="534.75" y="102.0" />
+              <point x="-12.75" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="java.util.Iterator">
+              <point x="-39.75" y="-26.0" />
+              <point x="39.75" y="102.0" />
+              <point x="102.125" y="102.0" />
+              <point x="-23.75" y="15.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-70.0" />
+              <point x="676.0" y="102.0" />
+              <point x="560.25" y="102.0" />
+              <point x="12.75" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="39.75" y="-26.0" />
+              <point x="119.25" y="82.0" />
+              <point x="483.75" y="82.0" />
+              <point x="-63.75" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.task.TeachingTaskDetails">
+              <point x="-48.75" y="-26.0" />
+              <point x="738.8888888888888" y="287.0" />
+              <point x="419.0" y="287.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingTaskPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-26.0" />
+              <point x="1015.0" y="92.0" />
+              <point x="585.75" y="92.0" />
+              <point x="38.25" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="48.74999999999997" y="-26.0" />
+              <point x="836.3888888888888" y="287.0" />
+              <point x="1195.5" y="287.0" />
+              <point x="1195.5" y="82.0" />
+              <point x="611.25" y="82.0" />
+              <point x="63.75" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8085676037483266" x="620.0" y="249.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.learnyeai.resource.core.plan.SectionPlanDirctory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.learnyeai.resource.core.plan.SectionPlanDirctory</OriginalElement>
+          <nodes>
+            <node x="470.5" y="0.0">com.learnyeai.resource.core.details.TeachableDetails</node>
+            <node x="751.2248677248677" y="490.0">com.learnyeai.resource.core.plan.TeachingPlan</node>
+            <node x="377.0" y="156.0">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
+            <node x="410.6805555555555" y="490.0">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
+            <node x="833.25" y="302.0">java.util.Iterator</node>
+            <node x="1087.1666666666665" y="490.0">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
+            <node x="0.0" y="490.0">com.learnyeai.resource.core.plan.SectionPlanDirctory</node>
+            <node x="58.0" y="112.0">com.learnyeai.resource.core.course.CourseDetails</node>
+            <node x="482.25" y="324.0">com.learnyeai.resource.core.plan.PlanDirectory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="java.util.Iterator">
+              <point x="44.0" y="-26.0" />
+              <point x="861.2248677248677" y="470.0" />
+              <point x="1012.25" y="470.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="java.util.Iterator">
+              <point x="-39.75" y="-26.0" />
+              <point x="1126.9166666666665" y="470.0" />
+              <point x="1131.5833333333333" y="470.0" />
+              <point x="119.33333333333331" y="59.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-47.5" y="-26.0" />
+              <point x="47.5" y="72.0" />
+              <point x="481.42857142857144" y="72.0" />
+              <point x="-65.57142857142856" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.plan.PlanDirectory">
+              <point x="-44.0" y="-26.0" />
+              <point x="773.2248677248677" y="470.0" />
+              <point x="740.5833333333333" y="470.0" />
+              <point x="103.33333333333326" y="37.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingTaskPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="-48.75" y="-26.0" />
+              <point x="459.4305555555555" y="460.0" />
+              <point x="366.5" y="460.0" />
+              <point x="366.5" y="92.0" />
+              <point x="525.1428571428571" y="92.0" />
+              <point x="-21.85714285714289" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-26.0" />
+              <point x="817.2248677248677" y="470.0" />
+              <point x="802.75" y="470.0" />
+              <point x="802.75" y="82.0" />
+              <point x="590.7142857142857" y="82.0" />
+              <point x="43.714285714285666" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.plan.PlanDirectory">
+              <point x="48.75" y="-26.0" />
+              <point x="556.9305555555554" y="470.0" />
+              <point x="637.25" y="470.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="0.0" y="-70.0" />
+              <point x="207.0" y="82.0" />
+              <point x="503.2857142857142" y="82.0" />
+              <point x="-43.71428571428578" y="26.0" />
+            </edge>
+            <edge source="java.util.Iterator" target="java.util.Iterator">
+              <point x="-119.33333333333331" y="59.0" />
+              <point x="892.9166666666667" y="440.0" />
+              <point x="813.25" y="440.0" />
+              <point x="813.25" y="361.0" />
+              <point x="-179.0" y="-0.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="77.5" y="-37.0" />
+              <point x="714.75" y="277.0" />
+              <point x="727.5" y="277.0" />
+              <point x="727.5" y="92.0" />
+              <point x="568.8571428571428" y="92.0" />
+              <point x="21.857142857142776" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="com.learnyeai.resource.core.details.TeachableDetails">
+              <point x="39.75" y="-26.0" />
+              <point x="1206.4166666666665" y="470.0" />
+              <point x="1201.75" y="470.0" />
+              <point x="1201.75" y="72.0" />
+              <point x="612.5714285714286" y="72.0" />
+              <point x="65.57142857142856" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.plan.TeachingTaskPlan">
+              <point x="-77.5" y="-37.0" />
+              <point x="559.75" y="277.0" />
+              <point x="547.0" y="277.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.plan.PlanDirectory">
+              <point x="47.5" y="-26.0" />
+              <point x="142.5" y="470.0" />
+              <point x="533.9166666666666" y="470.0" />
+              <point x="-103.33333333333337" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8" x="601.5" y="271.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
         </state>
       </provider>
     </entry>
