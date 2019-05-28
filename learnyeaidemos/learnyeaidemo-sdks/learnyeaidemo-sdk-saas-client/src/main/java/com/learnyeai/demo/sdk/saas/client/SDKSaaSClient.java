@@ -15,7 +15,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @Documented
 @Inherited
 @EnableDiscoveryClient
-@EnableFeignClients
+@EnableFeignClients(basePackages="com.learnyeai.demo.sdk.saas.client")
 public @interface SDKSaaSClient {
 
 }

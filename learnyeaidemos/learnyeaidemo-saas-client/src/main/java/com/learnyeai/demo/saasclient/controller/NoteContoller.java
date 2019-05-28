@@ -39,6 +39,11 @@ public class NoteContoller {
 	public NoteContoller(NoteRepository repo) {
 		this.repository = repo;
 	}
+	
+	@RequestMapping(method = RequestMethod.GET, value = "/ping")
+	public Authentication ping(Authentication authentication) {
+		return authentication;
+	}
 
 	@RequestMapping(method = RequestMethod.GET, value = "/search")
 	public ResponseEntity<?> findAll(Authentication authentication, Pageable pageable) {

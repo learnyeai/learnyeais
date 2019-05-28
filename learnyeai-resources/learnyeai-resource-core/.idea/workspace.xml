@@ -3,30 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/ResourcesDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/ResourcesDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/ChapterDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/CourseDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/course/SectionDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Downloadable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Downloadable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Interactive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Interactive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Playable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Preview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Preview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Resourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Resourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Studioable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/operable/Studioable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TaskDetailsPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TaskDetailsPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TeachingTaskPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnyeai/resource/core/taskpool/TeachingTaskPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/ResourcesDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/ResourcesDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/ChapterDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/ChapterDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/CourseDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/CourseDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/SectionDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/course/SectionDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Downloadable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Downloadable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Interactive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Interactive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Playable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Preview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Preview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Resourceable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Resourceable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Studioable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/operable/Studioable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TaskDetailsPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TaskDetailsPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TeachingTaskPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnyeai/resource/core/taskpool/TeachingTaskPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/LearnyeaiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/LearnyeaiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/LearnyeaiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/LearnyeaiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -302,7 +286,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559013562462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559029805760" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -335,12 +319,12 @@
       <workItem from="1559011697016" duration="358000" />
       <workItem from="1559012069225" duration="445000" />
       <workItem from="1559012773794" duration="434000" />
-      <workItem from="1559013296646" duration="264000" />
+      <workItem from="1559013296646" duration="486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6994000" />
+    <option name="totallyTimeSpent" value="7216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
