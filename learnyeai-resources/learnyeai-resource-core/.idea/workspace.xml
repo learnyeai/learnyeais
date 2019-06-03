@@ -3,14 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="6335a4a9-a8b9-4796-beff-5b37cc5aa97f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/LearnyeaiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/LearnyeaiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/handler/CourseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/src/main/java/com/learnyeai/demo/api/course/handler/CourseHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/META-INF/maven/com.learnyeai.demo.api/learnyeaidemo-api-course/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/LearnyeaiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/LearnyeaiApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/NoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/NoteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/handler/CourseHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-apis/learnyeaidemo-api-course/target/classes/com/learnyeai/demo/api/course/handler/CourseHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas-client/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas-client/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/src/main/java/com/learnyeai/demo/saas/ResourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/src/main/java/com/learnyeai/demo/saas/ResourceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/target/classes/META-INF/maven/com.learnyeai.demo/learnyeaidemo-saas/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/target/classes/META-INF/maven/com.learnyeai.demo/learnyeaidemo-saas/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/target/classes/com/learnyeai/demo/saas/ResourceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-saas/target/classes/com/learnyeai/demo/saas/ResourceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-sdks/learnyeaidemo-sdk-saas-client/src/main/java/com/learnyeai/demo/sdk/saas/client/LearnyeaiDemoSaaSClientApiNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-sdks/learnyeaidemo-sdk-saas-client/src/main/java/com/learnyeai/demo/sdk/saas/client/SDKSaaSClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-sdks/learnyeaidemo-sdk-saas-client/target/classes/com/learnyeai/demo/sdk/saas/client/LearnyeaiDemoSaaSClientApiNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnyeaidemos/learnyeaidemo-sdks/learnyeaidemo-sdk-saas-client/target/classes/com/learnyeai/demo/sdk/saas/client/SDKSaaSClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,134 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.learnyeai.resource.core.plan.SectionPlanDirctory">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.learnyeai.resource.core.plan.SectionPlanDirctory</OriginalElement>
-              <nodes>
-                <node x="470.5" y="0.0">com.learnyeai.resource.core.details.TeachableDetails</node>
-                <node x="751.2248677248677" y="490.0">com.learnyeai.resource.core.plan.TeachingPlan</node>
-                <node x="377.0" y="156.0">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
-                <node x="410.6805555555555" y="490.0">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
-                <node x="833.25" y="302.0">java.util.Iterator</node>
-                <node x="1087.1666666666665" y="490.0">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
-                <node x="0.0" y="490.0">com.learnyeai.resource.core.plan.SectionPlanDirctory</node>
-                <node x="58.0" y="112.0">com.learnyeai.resource.core.course.CourseDetails</node>
-                <node x="482.25" y="324.0">com.learnyeai.resource.core.plan.PlanDirectory</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="java.util.Iterator">
-                  <point x="44.0" y="-26.0" />
-                  <point x="861.2248677248677" y="470.0" />
-                  <point x="1012.25" y="470.0" />
-                  <point x="0.0" y="59.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="java.util.Iterator">
-                  <point x="-39.75" y="-26.0" />
-                  <point x="1126.9166666666665" y="470.0" />
-                  <point x="1131.5833333333333" y="470.0" />
-                  <point x="119.33333333333331" y="59.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="-47.5" y="-26.0" />
-                  <point x="47.5" y="72.0" />
-                  <point x="481.42857142857144" y="72.0" />
-                  <point x="-65.57142857142856" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.plan.PlanDirectory">
-                  <point x="-44.0" y="-26.0" />
-                  <point x="773.2248677248677" y="470.0" />
-                  <point x="740.5833333333333" y="470.0" />
-                  <point x="103.33333333333326" y="37.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.TeachingTaskPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="0.0" y="-26.0" />
-                  <point x="0.0" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="-48.75" y="-26.0" />
-                  <point x="459.4305555555555" y="460.0" />
-                  <point x="366.5" y="460.0" />
-                  <point x="366.5" y="92.0" />
-                  <point x="525.1428571428571" y="92.0" />
-                  <point x="-21.85714285714289" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.TeachingPlan" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="0.0" y="-26.0" />
-                  <point x="817.2248677248677" y="470.0" />
-                  <point x="802.75" y="470.0" />
-                  <point x="802.75" y="82.0" />
-                  <point x="590.7142857142857" y="82.0" />
-                  <point x="43.714285714285666" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.ChapterPlanDirectory" target="com.learnyeai.resource.core.plan.PlanDirectory">
-                  <point x="48.75" y="-26.0" />
-                  <point x="556.9305555555554" y="470.0" />
-                  <point x="637.25" y="470.0" />
-                  <point x="0.0" y="37.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.course.CourseDetails" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="0.0" y="-70.0" />
-                  <point x="207.0" y="82.0" />
-                  <point x="503.2857142857142" y="82.0" />
-                  <point x="-43.71428571428578" y="26.0" />
-                </edge>
-                <edge source="java.util.Iterator" target="java.util.Iterator">
-                  <point x="-119.33333333333331" y="59.0" />
-                  <point x="892.9166666666667" y="440.0" />
-                  <point x="813.25" y="440.0" />
-                  <point x="813.25" y="361.0" />
-                  <point x="-179.0" y="-0.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="77.5" y="-37.0" />
-                  <point x="714.75" y="277.0" />
-                  <point x="727.5" y="277.0" />
-                  <point x="727.5" y="92.0" />
-                  <point x="568.8571428571428" y="92.0" />
-                  <point x="21.857142857142776" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.TeachingPlanPool" target="com.learnyeai.resource.core.details.TeachableDetails">
-                  <point x="39.75" y="-26.0" />
-                  <point x="1206.4166666666665" y="470.0" />
-                  <point x="1201.75" y="470.0" />
-                  <point x="1201.75" y="72.0" />
-                  <point x="612.5714285714286" y="72.0" />
-                  <point x="65.57142857142856" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.plan.TeachingTaskPlan">
-                  <point x="-77.5" y="-37.0" />
-                  <point x="559.75" y="277.0" />
-                  <point x="547.0" y="277.0" />
-                  <point x="0.0" y="26.0" />
-                </edge>
-                <edge source="com.learnyeai.resource.core.plan.SectionPlanDirctory" target="com.learnyeai.resource.core.plan.PlanDirectory">
-                  <point x="47.5" y="-26.0" />
-                  <point x="142.5" y="470.0" />
-                  <point x="533.9166666666666" y="470.0" />
-                  <point x="-103.33333333333337" y="37.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.8" x="601.5" y="271.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Inner Classes</Category>
-                <Category>Properties</Category>
-                <Category>Methods</Category>
-                <Category>Constructors</Category>
-                <Category>Fields</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>public</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -286,7 +171,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559029805760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559285812553" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -319,16 +204,15 @@
       <workItem from="1559011697016" duration="358000" />
       <workItem from="1559012069225" duration="445000" />
       <workItem from="1559012773794" duration="434000" />
-      <workItem from="1559013296646" duration="486000" />
+      <workItem from="1559013296646" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7216000" />
+    <option name="totallyTimeSpent" value="8762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024232633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,7 +229,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -2417,11 +2301,11 @@
             <node x="751.2248677248677" y="490.0">com.learnyeai.resource.core.plan.TeachingPlan</node>
             <node x="377.0" y="156.0">com.learnyeai.resource.core.plan.TeachingTaskPlan</node>
             <node x="410.6805555555555" y="490.0">com.learnyeai.resource.core.plan.ChapterPlanDirectory</node>
-            <node x="833.25" y="302.0">java.util.Iterator</node>
+            <node x="833.25" y="297.0">java.util.Iterator</node>
             <node x="1087.1666666666665" y="490.0">com.learnyeai.resource.core.plan.TeachingPlanPool</node>
             <node x="0.0" y="490.0">com.learnyeai.resource.core.plan.SectionPlanDirctory</node>
             <node x="58.0" y="112.0">com.learnyeai.resource.core.course.CourseDetails</node>
-            <node x="482.25" y="324.0">com.learnyeai.resource.core.plan.PlanDirectory</node>
+            <node x="482.25" y="326.5">com.learnyeai.resource.core.plan.PlanDirectory</node>
           </nodes>
           <notes />
           <edges>
@@ -2483,9 +2367,9 @@
             </edge>
             <edge source="java.util.Iterator" target="java.util.Iterator">
               <point x="-119.33333333333331" y="59.0" />
-              <point x="892.9166666666667" y="440.0" />
-              <point x="813.25" y="440.0" />
-              <point x="813.25" y="361.0" />
+              <point x="892.9166666666667" y="435.0" />
+              <point x="813.25" y="435.0" />
+              <point x="813.25" y="356.0" />
               <point x="-179.0" y="-0.0" />
             </edge>
             <edge source="com.learnyeai.resource.core.plan.PlanDirectory" target="com.learnyeai.resource.core.details.TeachableDetails">

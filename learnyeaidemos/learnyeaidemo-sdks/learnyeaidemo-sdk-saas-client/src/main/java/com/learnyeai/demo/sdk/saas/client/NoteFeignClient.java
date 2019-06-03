@@ -14,9 +14,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.learnyeai.demo.resource.saasclient.NoteResource;
 import com.learnyeai.demo.resource.saasclient.data.Note;
 
-@FeignClient(name = "learnyeai-demo-saas-client", path = "/learnyeai/demo/saasclient")
-@RequestMapping("/notes")
-public interface LearnyeaiDemoSaaSClientApiNote {
+@FeignClient(name = "learnyeaidemo-saas-client", path = "/learnyeai/demo/saasclient/notes")
+public interface NoteFeignClient {
 
 	@RequestMapping(method = RequestMethod.GET, value = "/ping")
 	String ping(@RequestHeader("Authorization") String authorization);

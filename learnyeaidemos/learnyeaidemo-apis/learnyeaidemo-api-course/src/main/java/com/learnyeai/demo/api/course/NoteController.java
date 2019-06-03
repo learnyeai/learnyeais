@@ -15,17 +15,17 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.learnyeai.demo.resource.saasclient.NoteResource;
 import com.learnyeai.demo.resource.saasclient.data.Note;
-import com.learnyeai.demo.sdk.saas.client.LearnyeaiDemoSaaSClientApiNote;
+import com.learnyeai.demo.sdk.saas.client.NoteFeignClient;
 import com.netflix.client.http.HttpHeaders;
 
 @RestController
 @RequestMapping("/api/notes")
 public class NoteController {
 
-	private LearnyeaiDemoSaaSClientApiNote client;
+	private NoteFeignClient client;
 
 	@Autowired
-	public NoteController(LearnyeaiDemoSaaSClientApiNote client) {
+	public NoteController(NoteFeignClient client) {
 		super();
 		this.client = client;
 	}

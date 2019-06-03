@@ -8,14 +8,14 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.openfeign.EnableFeignClients;
+import org.springframework.hateoas.config.EnableHypermediaSupport;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 @Inherited
 @EnableDiscoveryClient
-@EnableFeignClients(basePackages="com.learnyeai.demo.sdk.saas.client")
-public @interface SDKSaaSClient {
+@EnableHypermediaSupport(type = EnableHypermediaSupport.HypermediaType.HAL)
+public @interface SDKSaaSClientDemo {
 
 }

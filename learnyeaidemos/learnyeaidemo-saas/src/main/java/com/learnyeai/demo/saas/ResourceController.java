@@ -1,7 +1,7 @@
 package com.learnyeai.demo.saas;
 
+import org.apache.tomcat.util.net.openssl.ciphers.Authentication;
 import org.springframework.data.rest.webmvc.BasePathAwareController;
-import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 

@@ -38,6 +38,7 @@
 		<module>learnyeai-sdks</module>
 		<module>learnyeai-apis</module>
 		<module>learnyeaidemos</module>
+		<module>learnyeai-batchs</module>
 	</modules>
 
 	<build>
