@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: learnyeai-batch-ffmpeg-core
-Implementation-Version: v1
-Built-By: wangqi
-Implementation-Vendor-Id: com.learnyeai
-Build-Jdk: 1.8.0_161
-Created-By: Maven Integration for Eclipse
-

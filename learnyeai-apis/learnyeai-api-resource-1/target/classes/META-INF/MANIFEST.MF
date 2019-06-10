@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: learnyeai-api-resource-1
+Implementation-Version: v1
+Built-By: wangqi
+Implementation-Vendor-Id: com.learnyeai.api
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+

@@ -10,6 +10,19 @@
 	<groupId>com.learnyeai.demo</groupId>
 	<artifactId>learnyeaidemos</artifactId>
 	<packaging>pom</packaging>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>jovany-saas</groupId>
+				<artifactId>jovany-saas</artifactId>
+				<version>1.0.0</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
 	<modules>
 		<module>learnyeaidemo-eureka</module>
 		<module>learnyeaidemo-saas</module>

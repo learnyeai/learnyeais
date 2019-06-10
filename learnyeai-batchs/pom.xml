@@ -13,6 +13,7 @@
 	<modules>
 		<module>learnyeai-batch-videoffmpeg</module>
 		<module>learnyeai-batch-ffmpegs</module>
+		<module>learnyeai-batch-ffmpegchip</module>
 	</modules>
 
 </project>

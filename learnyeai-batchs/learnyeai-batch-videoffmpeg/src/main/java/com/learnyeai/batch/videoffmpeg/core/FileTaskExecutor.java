@@ -12,8 +12,8 @@ import com.learnyeai.batch.taskpool.TaskSpeed;
 import com.learnyeai.batch.videoffmpeg.data.ResFile;
 import com.learnyeai.batch.videoffmpeg.data.ResFileRepository;
 
-import cn.jovany.ffmpeg.Ffmpeg;
-import cn.jovany.ffmpeg.FfmpegBuilder;
+import cn.jovany.command.CommandContext;
+import cn.jovany.command.CommandApi;
 
 public class FileTaskExecutor extends Task {
 
@@ -49,8 +49,8 @@ public class FileTaskExecutor extends Task {
 			}
 
 			if (resFile.getFileTimeLen() == null) {
-				FfmpegBuilder ffmpegBuilder = new Ffmpeg(new File(ffmpegPath)).build();
-				int durationBySecond = ffmpegBuilder.append("-i", file::getAbsolutePath)
+				CommandContext commandContext = new CommandApi(new File(ffmpegPath)).build();
+				int durationBySecond = commandContext.append("-i", file::getAbsolutePath)
 						.execute(re -> re.regex("Duration: (.*?), start: (.*), bitrate: (.*)", 1).first()
 								.get(re2 -> re2.regex("(\\d\\d?):(\\d\\d?):(\\d\\d?)\\.(\\d\\d?)", 4).apply(res2 -> {
 									BigDecimal hour = new BigDecimal(res2.group(0));
