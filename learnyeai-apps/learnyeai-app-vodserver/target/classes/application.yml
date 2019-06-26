@@ -1,0 +1,22 @@
+spring:
+    application:
+        name: vod-server
+    jackson:
+        date-format: yyyy-MM-dd HH:mm:ss
+        time-zone: GMT+8
+    servlet:
+        multipart:
+            max-file-size: 1000MB
+            max-request-size: 1000MB
+store:
+    file:
+        # 此地址为nginx服务的下载URL
+        download-uri: http://localhost
+    path:
+        upload: /usr/local/var/upload
+        # 此地址为nginx服务的下载路径
+        download: /usr/local/var/www/
+command:
+    path:
+        ffmpeg: /usr/local/Cellar/ffmpeg/4.1.1/bin/ffmpeg
+        openssl: /usr/bin/openssl

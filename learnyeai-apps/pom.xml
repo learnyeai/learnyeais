@@ -7,7 +7,7 @@
 		<artifactId>learnyeais</artifactId>
 		<version>v1</version>
 	</parent>
-	<artifactId>learnyeai-batchs</artifactId>
+	<groupId>com.learnyeai.app</groupId>
+	<artifactId>learnyeai-apps</artifactId>
 	<packaging>pom</packaging>
-
-</project>
+	</project>

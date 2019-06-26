@@ -24,13 +24,6 @@
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>cn.jovanyfreamwork.boot</groupId>
-				<artifactId>jovany-boot-dependencies</artifactId>
-				<version>1.0.0</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-			<dependency>
 				<groupId>cn.jovanyfreamwork.cloud</groupId>
 				<artifactId>jovany-cloud-starters</artifactId>
 				<version>1.0.0</version>
@@ -46,6 +39,9 @@
 		<module>learnyeai-apis</module>
 		<module>learnyeaidemos</module>
 		<module>learnyeai-batchs</module>
+		<module>learnyeai-oauth-server</module>
+		<module>learnyeai-apps</module>
+		<module>learnyeai-eureka</module>
 	</modules>
 
 	<build>

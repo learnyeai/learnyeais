@@ -30,7 +30,4 @@
 		</dependencies>
 	</dependencyManagement>
 
-	<modules>
-		<module>learnyeai-api-resource-1</module>
-	</modules>
 </project>
